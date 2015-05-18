@@ -1,7 +1,7 @@
 // Sensor de ultrasonidos HR-SC04
 // David Ortega Cuadrado - dorcu.com
 // 6 de Abril de 2014
-// hola@dorcu.com
+// dorcu.com
   
 // Conectamos el sensor de la siguiente forma:  
 // GND    -> GND  
